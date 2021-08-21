@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Acharya-soumik
+- 👋 Hi, I’m Soumik Acharjee.
 - 👀 I’m interested in Music and Programming.
 - 🌱 I’m currently learning React Native.
 - 💞️ I’m looking to collaborate on any Project.
