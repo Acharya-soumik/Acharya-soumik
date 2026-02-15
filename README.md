@@ -1,6 +1,32 @@
-- ### 👋 Hi, I’m Soumik Acharjee.
-- talks all about frontend
-<!---
-Acharya-soumik/Acharya-soumik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Soumik
+
+**Frontend-heavy Full Stack Engineer**
+Building fast, scalable SaaS & AI products
+
+---
+
+### ⚡ Stack
+
+React • Next.js • TypeScript
+Node • Supabase • PostgreSQL
+Tailwind • ShadCN
+OpenAI • Vercel AI SDK
+
+---
+
+### 🚀 I like building
+
+* AI-powered apps
+* SaaS products
+* Clean frontend architecture
+* Dashboards & internal tools
+
+---
+
+### 🧠 Currently
+
+Shipping products, exploring AI, working with startups.
+
+---
+
+⭐ Check out my projects below
