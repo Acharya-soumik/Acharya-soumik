@@ -42,8 +42,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Acharya-soumik&show_icons=true&theme=react&hide_border=true" alt="Soumik's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acharya-soumik&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Soumik's Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Acharya-soumik&show_icons=true&theme=react&hide_border=true" alt="Soumik's Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Acharya-soumik&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Soumik's Top Languages" />
 </p>
 
 ---
